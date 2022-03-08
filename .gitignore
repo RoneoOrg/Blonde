@@ -22,5 +22,6 @@ _testmain.go
 *.exe
 *.test
 
-node_modules/
+/public
+/themes
 .DS_Store
